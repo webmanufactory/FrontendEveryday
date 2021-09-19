@@ -1,0 +1,2 @@
+# FrontendEveryday
+training projects
